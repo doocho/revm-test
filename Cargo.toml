@@ -1,0 +1,8 @@
+[package]
+name = "evm-test"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+revm = "19"
+alloy-primitives = "0.8"
